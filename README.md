@@ -29,3 +29,4 @@ Refer to the UML Class Diagram
 
 ## Class Diagram
 
+![AdapterPattern_UML_Class_Diagram](https://github.com/alea-progaming/adapterPattern/assets/110019094/1f8bedff-8ec8-4473-96e9-6b873a2f6286)
